@@ -21,4 +21,11 @@ public class Main {
         return Math.round(a);
     }
 
+    public static void main(String[] args) {
+        float f = 1 / 2;
+        int i = 1 / 3;
+        //float f = 1.45;
+        double d = 555d;
+    }
+
 }
